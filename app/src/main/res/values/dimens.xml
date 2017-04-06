@@ -1,3 +1,5 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="status_text_size">20sp</dimen>
+    <dimen name="pin_size">40dp</dimen>
 </resources>
